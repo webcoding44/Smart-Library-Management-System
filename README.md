@@ -21,7 +21,7 @@
 
 The **Smart Library Management System** is an advanced C++ project that demonstrates mastery of fundamental data structures and algorithms by implementing them **from scratch** (without using STL containers for the core structures). This project manages a library with features like book borrowing, reservations, undo operations, and intelligent book recommendations using graph algorithms.
 
->  **توجه:** این پروژه یک تمرین آموزشی پیشرفته برای یادگیری و پیاده‌سازی **ساختمان داده‌ها و الگوریتم‌ها** از صفر در زبان ++C است.
+>  **Note:** This project is an advanced educational exercise for learning and implementing data structures and algorithms from scratch in C++
 
 ### 🎯 Project Goals
 
